@@ -6,7 +6,7 @@
 
 # Link
 
-- [Live-preview](https://azanra.github.io/personal-portfolio-template/)
+- [Later](https://google.com)
 
 # About
 
