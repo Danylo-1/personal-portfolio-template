@@ -19,6 +19,10 @@ dimensional (grid and column) while flexbox is for one dimensional (grid or colu
 , Grid can also be used for one dimensional and flex can also be used for "two dimensional"
 with the help of flex-wrap
 
+# Hi
+
+Hello World!
+
 # Review
 
 This layout is almost the same as the previous project, i should look for more complex layout
