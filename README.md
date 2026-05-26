@@ -6,7 +6,7 @@
 
 # Link
 
-- [Live-preview](https://azanra.github.io/personal-portfolio-template/)
+- [Live-preview](https://personal-portfolio-template-orpin.vercel.app/)
 
 # About
 
