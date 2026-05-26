@@ -6,7 +6,7 @@
 
 # Link
 
-- [Live-preview](https://personal-portfolio-template-orpin.vercel.app/)
+- [Live-preview](https://danylo-portfolio.vercel.app/)
 
 # About
 
